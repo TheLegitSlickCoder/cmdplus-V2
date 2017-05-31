@@ -4,6 +4,7 @@
 <h4>Changelog:</h4>
 <ul>
 <li>Added <code>help</code> command.</li>
-<li>Fixed argument passing bug.</li>
+<li>Fixed argument passing array bug.</li>
 <li>Added several more commands.</li>
+<li>Added subclasses to CMD+.</li>
 </ul>
