@@ -1,5 +1,5 @@
 <h1>CMD+ V2</h1>
-<p>An update to the original <a href= "https://www.github.com/TheLegitSlickCoder/cmdplus">CMD+</a></p>
+<p>An update to the original <a href= "https://www.github.com/TheLegitSlickCoder/cmdplus">CMD+</a>.</p>
 
 <h4>Changelog:</h4>
 <ul>
