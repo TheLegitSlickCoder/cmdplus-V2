@@ -5,4 +5,5 @@
 <ul>
 <li>Added <code>help</code> command.</li>
 <li>Fixed argument passing bug.</li>
+<li>Added several more commands.</li>
 </ul>
