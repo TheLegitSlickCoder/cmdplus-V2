@@ -6,7 +6,7 @@
 <li>Added <code>help</code> command.</li>
 <li>Fixed argument passing array bug.</li>
 <li>Added several more commands.</li>
-<li>Added subclasses to CMD+.</li>
+<li>Added subclasses in the package for easy editing.</li>
 </ul>
 
 <h4>Using CMD+:</h4>
